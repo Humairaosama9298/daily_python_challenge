@@ -1,3 +1,7 @@
+#                 ***** Task 3 *****
+
+#            ***** Smart Calculator *****
+
 import operator
 
 def smart_calculator():
@@ -34,3 +38,5 @@ def smart_calculator():
             print(" Invalid choice. Please enter a number between 1 and 4.")
 
 smart_calculator()
+
+#            ***** End of Task 3 *****
